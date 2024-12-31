@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://link-to-your-memoji.png" alt="My Memoji" width="200"/>
+  <img src="https://github.com/bhavikasodagum/bhavikasodagum/blob/main/IMG_3073-removebg-preview.png?raw=true" alt="My Memoji" width="200"/>
 </p>
 
 <h1 align="center">Hi there 👋</h1>
