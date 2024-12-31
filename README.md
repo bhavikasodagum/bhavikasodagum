@@ -5,10 +5,12 @@
 <h1 align="center">Hi there 👋</h1>
 
 # 💫 About Me:
-About Me 👨‍💻<br>Hi there! I'm Bhavika Sodagum, a passionate Software Developer and a Master's Student in Computer Software Engineering at SJSU, based in the heart of Silicon Valley. 🌟<br><br>I enjoy creating innovative solutions, exploring cutting-edge technologies, and contributing to impactful projects. Whether it's building full-stack applications, designing efficient algorithms, or exploring AI and machine learning, I'm always eager to learn and grow. 🚀<br><br>
-🔧 What I Do<br>Develop scalable and user-friendly web and mobile applications.<br>Architect efficient backend systems and APIs.<br>Experiment with AI/ML models for real-world applications.<br>
+About Me 👨‍💻<br>Hi there! I'm Bhavika Sodagum, a passionate Software Developer and a Master's Student in Computer Software Engineering at SJSU, based in the heart of Silicon Valley. 🌟<br>I enjoy creating innovative solutions, exploring cutting-edge technologies, and contributing to impactful projects. Whether it's building full-stack applications, designing efficient algorithms, or exploring AI and machine learning, I'm always eager to learn and grow. 🚀<br>
 
-💻 Tech Stack<br>Languages: JavaScript, Python, Java, C++, C, Go<br>Frontend: React.js, Redux, HTML5, CSS3<br>Backend: Node.js, Express.js, GraphQL<br>Database: MongoDB, MySQL, Firebase<br>DevOps: Docker, Kubernetes, Git, CI/CD<br>
+##🔧 What I Do
+Develop scalable and user-friendly web and mobile applications.<br>Architect efficient backend systems and APIs.<br>Experiment with AI/ML models for real-world applications.
+
+##💻 Tech Stack<br>Languages: JavaScript, Python, Java, C++, C, Go<br>Frontend: React.js, Redux, HTML5, CSS3<br>Backend: Node.js, Express.js, GraphQL<br>Database: MongoDB, MySQL, Firebase<br>DevOps: Docker, Kubernetes, Git, CI/CD<br>
 
 🌱 Currently Learning<br>Advanced system design principles.<br>Distributed systems and cloud architectures.<br>
 
