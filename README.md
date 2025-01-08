@@ -11,7 +11,7 @@ About Me 👨‍💻<br>Hi there! I'm Bhavika Sodagum, a passionate Software Dev
 
 💻 Tech Stack<br>Languages: JavaScript, Python, Java, C++, C, Go<br>Frontend: React.js, Redux, HTML5, CSS3<br>Backend: Node.js, Express.js, GraphQL<br>Database: MongoDB, MySQL, Firebase<br>DevOps: Docker, Kubernetes, Git, CI/CD<br>
 
-🌱 Currently Learning<br>Advanced system design principles.<br>Distributed systems and cloud architectures.<br>
+🌱 Currently Learning<br>React.js.<br>Distributed systems and cloud architectures.<br>
 
 🌐 Let’s Connect<br>Portfolio: yourportfolio.com<br>LinkedIn: https://www.linkedin.com/in/bhavika-sodagum/ <br>Email: sodagumbhavika@gmail.com <br>
 
